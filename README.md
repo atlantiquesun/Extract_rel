@@ -16,6 +16,8 @@ This repository contains two simple models (implemented in Keras) for the extrac
 To allow fair comparison, the dataset used to test this model is the same dataset as that used by [1] (McRae Feature Norms dataset). The original dataset can be found at [2].
 
 
+
+
 [1] https://www.aclweb.org/anthology/P15-2119 
 
 [2] https://sites.google.com/site/kenmcraelab/norms-data
